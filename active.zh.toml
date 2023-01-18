@@ -1,0 +1,4 @@
+[PersonCats]
+hash = "sha1-e0aace783982e635707d2e4da79d4962ead0ade3"
+one = "史密斯 has {{.PluralCount}} cats."
+other = "史密斯 has {{.PluralCount}} cats."

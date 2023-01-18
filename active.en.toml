@@ -1,0 +1,3 @@
+[PersonCats]
+one = "Smith has {{.PluralCount}} cat."
+other = "Smith has {{.PluralCount}} cats."
