@@ -1,4 +1,7 @@
+## multiple language localization
+
 `$ goi18n extract`
+
 - will get active.en.toml
 
 `$ touch translate.es.toml` 
